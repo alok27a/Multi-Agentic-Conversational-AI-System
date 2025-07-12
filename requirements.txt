@@ -1,0 +1,13 @@
+fastapi
+uvicorn[standard]
+pydantic
+email-validator
+python-dotenv
+python-multipart
+openai
+pymongo
+motor 
+pandas
+scikit-learn
+faiss-cpu 
+SQLAlchemy
