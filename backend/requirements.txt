@@ -12,3 +12,5 @@ scikit-learn
 faiss-cpu 
 SQLAlchemy
 passlib[bcrypt]
+langchain
+langchain-openai
