@@ -119,3 +119,4 @@ dmypy.json
 
 # SQLite Database file
 knowledge_base.db
+.vercel
