@@ -53,11 +53,24 @@ This approach combines the **precision of a database query** with the **flexibil
 
 
 ## System Architecture
+Overall System Architecture of the project
+<img width="3840" height="3742" alt="img1" src="https://github.com/user-attachments/assets/57e06959-f0cb-4a24-920e-c6511a5a0637" />
 
+FastAPI Backend Architecture
+<img width="3840" height="3263" alt="img2" src="https://github.com/user-attachments/assets/efbd8a0d-72b4-44c6-abf6-7d6c805b399e" />
+
+User Interaction with Backend
+<img width="3840" height="2223" alt="img3" src="https://github.com/user-attachments/assets/98e8492f-5e13-48e4-8d9d-99487eb6c451" />
+
+CRM Schema
+<img width="2868" height="3840" alt="img4" src="https://github.com/user-attachments/assets/299d233f-4891-4181-8b36-40d54242b10d" />
 
 ## Sample Converstions
 If you are running the backend on your local machine please feel free to go to FastAPI Docs at this URL `http://127.0.0.1:8000/docs#/` and use the swagger UI. Or for convineance I have created a frontend as well, which can be used very easily. 
+Few examples of how it is run
+<img width="2263" height="1199" alt="image" src="https://github.com/user-attachments/assets/75d9be89-543a-4a2e-8d78-dd8ca8504082" />
 
+<img width="2260" height="1201" alt="image" src="https://github.com/user-attachments/assets/702fa3d5-48ca-45ab-9ef7-01a781886aa4" />
 
 ## Setup & Usage
 
